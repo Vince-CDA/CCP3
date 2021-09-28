@@ -22,11 +22,17 @@ ils sont souvent **complexes** **: il faut beaucoup de temps pour vraiment les m
 1. La **matérialisation des entités est automatique** : on spécifie simplement le type des entités via un paramètre générique de la méthode qui effectue la requête ;
 1. Le passage des paramètres d'une requête se fait de façon très simple, en passant un objet dont les **noms des propriétés correspondent aux noms des paramètres** (cet objet peut éventuellement être d'un type anonyme).
 
+![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.003.png)
+*Légende \\* 1 Entité de la BO : Plat, avec propriétés et constructeurs ainsi que deux méthodes*
 
-![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.001.png)![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.002.png)![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.003.png)Voici des **exemples de diagramme de classe d’objets métiers** utilisés dans le cadre du **projet fil rouge** n°2 qui m’a été confié en vue de passer une évaluation professionnelle en cours de formation que j’ai obtenu avec succès.
+![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.001.png)
+*Légende \\* 2 Entité de la BO : Utilisateur, avec propriétés et constructeurs ainsi que deux méthodes*
+
+Voici des **exemples de diagramme de classe d’objets métiers** utilisés dans le cadre du **projet fil rouge** n°2 qui m’a été confié en vue de passer une évaluation professionnelle en cours de formation que j’ai obtenu avec succès.
 
 
-![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.004.png)
+
+
 
 Il existe aussi des DTO pouvant servir de transférer des objets ou d’y inclure des propriétés qui ne sont pas présentent dans la base de données. Ce sont les Data Transfert Object. 
 
@@ -34,6 +40,7 @@ Imaginons que je veuille faire une requête me rapportant le nombre d’inscript
 
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.005.png)
 
+*Légende \\* 3 DTO : PlatPopularite pour la popularité d'un plat*
 
 Dans ce cas « **inscrits** » y est ajouté et me servira dans la **couche d’accès aux données** (DAL) comme un « **COUNT** » dans une **requête** **SQL** servant à **compter** le **nombre d’inscrits** à un **plat**.
 
@@ -51,6 +58,7 @@ Dans la première requête « **stmt** », j’utilise une fonction « **OFFS
 
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.007.png)
 
+*Légende \\* 4 DTO : **PageRequest** avec **Page** et **PageSize** permettant une **pagination** quand il est en **requête***
 
 Il existe donc des **DTO** pouvant servir de « **vue** » comme avec des **tables SQL** et d’autres pouvant servir **d’outils** pour gérer les **requêtes** et **fonctionnalités** du type de **réponse** ou de **requête**.
 ## Préparer et exécuter les plans de tests d’une application 
@@ -116,18 +124,23 @@ Il est là pour **l’autorité**, la **gestion de l’équipe** et ne pas oubli
 
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.008.png)
 
+*Légende \\* 5 GitHub Projects - Desktop Client FoodBook*
+
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.009.png)
 
+*Légende \\* 6 GitHub - Voir les modifications d'un commit*
 ##### GitLab
 **GitLab** est un **logiciel libre** de forge **basé sur git** proposant **les fonctionnalités de wiki**, **un système de suivi des bugs**, **l’intégration continue** et **la livraison continue**. Développé par **GitLab Inc** et créé par Dmitriy Zaporozhets et par Valery Sizov, le **logiciel** est **utilisé par** **plusieurs grandes entreprises informatiques,** dont **IBM**, **Sony**, le centre de recherche de **Jülich**, la **NASA**, **Alibaba**, **Oracle**, **Invincea**, **O’Reilly Media**, **Leibniz Rechenzentrum**, le **CERN**, **European XFEL**, la **GNOME Foundation**, **Boeing**, **Autodata**, **SpaceX6,** **Altares** et **Capgemini**.
 
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.010.png)
 
+*Légende \\* 7 GitLab - Commit de mise en place d'un nouvel environment.dev.ts sur Angular sur le projet Expadon2 de Capgemini Bordeaux*
 ##### Jira
 **Jira** est **un système de suivi de bugs**, de **gestion des incidents** et de **gestion de projets** développé par **Atlassian** et publié pour la première fois en **2002**. Il **propose** **des solutions à la fois à destination des développeurs et des intervenants non-développeurs (**fonctionnels**)**.
 
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.011.png)
 
+*Légende \\* 8 Jira - Capgemini Bordeaux*
 #### *Solution choisie*
 J’ai donc choisi la solution de GitHub, qui est gratuit, pour gérer le projet Fil Rouge de mon cursus de CDA.
 
