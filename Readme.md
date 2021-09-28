@@ -23,10 +23,12 @@ ils sont souvent **complexes** **: il faut beaucoup de temps pour vraiment les m
 1. Le passage des paramètres d'une requête se fait de façon très simple, en passant un objet dont les **noms des propriétés correspondent aux noms des paramètres** (cet objet peut éventuellement être d'un type anonyme).
 
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.003.png)
-*Légende \\* 1 Entité de la BO : Plat, avec propriétés et constructeurs ainsi que deux méthodes*
+
+*Légende \* 1 Entité de la BO : Plat, avec propriétés et constructeurs ainsi que deux méthodes*
 
 ![](Aspose.Words.246ebee4-890a-4d49-bd04-d9d2ec216fce.001.png)
-*Légende \\* 2 Entité de la BO : Utilisateur, avec propriétés et constructeurs ainsi que deux méthodes*
+
+*Légende \* 2 Entité de la BO : Utilisateur, avec propriétés et constructeurs ainsi que deux méthodes*
 
 Voici des **exemples de diagramme de classe d’objets métiers** utilisés dans le cadre du **projet fil rouge** n°2 qui m’a été confié en vue de passer une évaluation professionnelle en cours de formation que j’ai obtenu avec succès.
 
