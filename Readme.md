@@ -1,155 +1,152 @@
-![](./media/media/image1.png){width="2.8125in"
-height="2.6370286526684166in"}
+![](./media/media/image1.png)
 
-![](./media/media/image2.jpeg){width="6.7668383639545056in"
-height="4.5164468503937005in"}![](./media/media/image3.jpeg){width="5.03125in"
-height="3.3430785214348204in"}
+![](./media/media/image2.jpeg)![](./media/media/image3.jpeg)
 
 [Abstract [3](#abstract)](#abstract)
 
 [Introduction générale
-[4](#introduction-générale)](#introduction-générale)
+[4](#introduction-générale)]
 
 [Présentation personnelle
-[4](#présentation-personnelle)](#présentation-personnelle)
+[4](#présentation-personnelle)]
 
-[Présentation formation [4](#_Toc89158458)](#_Toc89158458)
+[Présentation formation [4](#_Toc89158458)]
 
-[Préambule [6](#préambule)](#préambule)
+[Préambule [6](#préambule)]
 
 [FoodBook -- Gestion et réservation auprès d'un restaurant
-[6](#foodbook-gestion-et-réservation-auprès-dun-restaurant)](#foodbook-gestion-et-réservation-auprès-dun-restaurant)
+[6](#foodbook-gestion-et-réservation-auprès-dun-restaurant)]
 
 [Expadon2 -- Certificats de vétérinaire pour importation et exportation
-alimentaire depuis la France [7](#_Toc89158461)](#_Toc89158461)
+alimentaire depuis la France [7](#_Toc89158461)]
 
 [ORIGINES ET OBJECTIF DU PROGRAMME EXPADON 2
-[10](#origines-et-objectif-du-programme-expadon-2)](#origines-et-objectif-du-programme-expadon-2)
+[10](#origines-et-objectif-du-programme-expadon-2)]
 
 [SERVICES PRÉVUS DANS EXPADON 2
-[10](#services-prévus-dans-expadon-2)](#services-prévus-dans-expadon-2)
+[10](#services-prévus-dans-expadon-2)]
 
 [CONDUITE DES TRAVAUX ET MISE EN SERVICE
-[11](#conduite-des-travaux-et-mise-en-service)](#conduite-des-travaux-et-mise-en-service)
+[11](#conduite-des-travaux-et-mise-en-service)]
 
 [Conduite des travaux
-[11](#conduite-des-travaux)](#conduite-des-travaux)
+[11](#conduite-des-travaux)]
 
 [Chantiers parallèles
-[11](#chantiers-parallèles)](#chantiers-parallèles)
+[11](#chantiers-parallèles)]
 
-[Information [11](#information)](#information)
+[Information [11](#information)]
 
 [Collaborer à la gestion d'un projet informatique et à l'organisation de
 l'environnement de développement
-[0](#collaborer-à-la-gestion-dun-projet-informatique-et-à-lorganisation-de-lenvironnement-de-développement)](#collaborer-à-la-gestion-dun-projet-informatique-et-à-lorganisation-de-lenvironnement-de-développement)
+[0](#collaborer-à-la-gestion-dun-projet-informatique-et-à-lorganisation-de-lenvironnement-de-développement)]
 
-[Collaboration [0](#collaboration)](#collaboration)
+[Collaboration [0](#collaboration)]
 
-[Gestion de projet [0](#gestion-de-projet)](#gestion-de-projet)
+[Gestion de projet [0](#gestion-de-projet)]
 
 [Environnement de gestion de développement
-[1](#environnement-de-gestion-de-développement)](#environnement-de-gestion-de-développement)
+[1](#environnement-de-gestion-de-développement)]
 
 [Concevoir une application
-[6](#concevoir-une-application)](#concevoir-une-application)
+[6](#concevoir-une-application)]
 
 [Diagramme de cas d'utilisations
-[6](#diagramme-de-cas-dutilisations)](#diagramme-de-cas-dutilisations)
+[6](#diagramme-de-cas-dutilisations)]
 
 [Dictionnaire des données
-[7](#dictionnaire-des-données)](#dictionnaire-des-données)
+[7](#dictionnaire-des-données)]
 
-[Modèle conceptuel de données [8](#_Toc89158475)](#_Toc89158475)
+[Modèle conceptuel de données [8](#_Toc89158475)]
 
 [Diagramme de package
-[10](#diagramme-de-package)](#diagramme-de-package)
+[10](#diagramme-de-package)]
 
 [Diagramme de séquence
-[18](#diagramme-de-séquence)](#diagramme-de-séquence)
+[18](#diagramme-de-séquence)]
 
-[Exemple [19](#exemple)](#exemple)
+[Exemple [19](#exemple)]
 
 [Développer des composants métier
-[20](#développer-des-composants-métier)](#développer-des-composants-métier)
+[20](#développer-des-composants-métier)]
 
 [Qu'est-ce que des composants métier ?
-[20](#quest-ce-que-des-composants-métier)](#quest-ce-que-des-composants-métier)
+[20](#quest-ce-que-des-composants-métier)]
 
 [Développer une application mobile
-[23](#développer-une-application-mobile)](#développer-une-application-mobile)
+[23](#développer-une-application-mobile)]
 
 [Application native et autres possibilités
-[23](#application-native-et-autres-possibilités)](#application-native-et-autres-possibilités)
+[23](#application-native-et-autres-possibilités)]
 
-[D'autres options [24](#dautres-options)](#dautres-options)
+[D'autres options [24](#dautres-options)]
 
 [Le choix que j'ai pris en relation avec la formation de concepteur
 développeur d'applications :
-[25](#le-choix-que-jai-pris-en-relation-avec-la-formation-de-concepteur-développeur-dapplications)](#le-choix-que-jai-pris-en-relation-avec-la-formation-de-concepteur-développeur-dapplications)
+[25](#le-choix-que-jai-pris-en-relation-avec-la-formation-de-concepteur-développeur-dapplications)]
 
 [Nos formateurs nous ont demandé de développer en UWP
-[25](#nos-formateurs-nous-ont-demandé-de-développer-en-uwp)](#nos-formateurs-nous-ont-demandé-de-développer-en-uwp)
+[25](#nos-formateurs-nous-ont-demandé-de-développer-en-uwp)]
 
-[UWP ? [25](#uwp)](#uwp)
+[UWP ? [25](#uwp)]
 
 [Construire une application organisée en couches
-[28](#construire-une-application-organisée-en-couches)](#construire-une-application-organisée-en-couches)
+[28](#construire-une-application-organisée-en-couches)]
 
-[Système Multicouche [28](#système-multicouche)](#système-multicouche)
+[Système Multicouche [28](#système-multicouche)]
 
 [Préparer et exécuter les plans de tests d'une application
-[30](#préparer-et-exécuter-les-plans-de-tests-dune-application)](#préparer-et-exécuter-les-plans-de-tests-dune-application)
+[30](#préparer-et-exécuter-les-plans-de-tests-dune-application)]
 
-[Test unitaire [30](#test-unitaire)](#test-unitaire)
+[Test unitaire [30](#test-unitaire)]
 
-[Test d'intégration [32](#test-dintégration)](#test-dintégration)
+[Test d'intégration [32](#test-dintégration)]
 
-[Test contrat [34](#test-contrat)](#test-contrat)
+[Test contrat [34](#test-contrat)]
 
-[Test end-to-end [35](#test-end-to-end)](#test-end-to-end)
+[Test end-to-end [35](#test-end-to-end)]
 
 [Test de non-régression
-[35](#test-de-non-régression)](#test-de-non-régression)
+[35](#test-de-non-régression)]
 
 [Préparer et exécuter le déploiement d'une application
-[36](#préparer-et-exécuter-le-déploiement-dune-application)](#préparer-et-exécuter-le-déploiement-dune-application)
+[36](#préparer-et-exécuter-le-déploiement-dune-application)]
 
 [Importer le jeu d'essai
-[36](#importer-le-jeu-dessai)](#importer-le-jeu-dessai)
+[36](#importer-le-jeu-dessai)]
 
-[Paramétrage [36](#paramétrage)](#paramétrage)
+[Paramétrage [36](#paramétrage)]
 
 [Publication en ligne par ftp
-[37](#publication-en-ligne-par-ftp)](#publication-en-ligne-par-ftp)
+[37](#publication-en-ligne-par-ftp)]
 
-[Token JWT [39](#token-jwt)](#token-jwt)
+[Token JWT [39](#token-jwt)]
 
 [L'application FoodBook en image
-[40](#lapplication-foodbook-en-image)](#lapplication-foodbook-en-image)
+[40](#lapplication-foodbook-en-image)]
 
-[L'application mobile [40](#lapplication-mobile)](#lapplication-mobile)
+[L'application mobile [40](#lapplication-mobile)]
 
-[Documenter FoodBook [41](#documenter-foodbook)](#documenter-foodbook)
+[Documenter FoodBook [41](#documenter-foodbook)]
 
 [Documentation de l'API
-[41](#documentation-de-lapi)](#documentation-de-lapi)
+[41](#documentation-de-lapi)]
 
 [Documentation technique
-[42](#documentation-technique)](#documentation-technique)
+[42](#documentation-technique)]
 
 [Faire de la veille technologique
-[44](#faire-de-la-veille-technologique)](#faire-de-la-veille-technologique)
+[44](#faire-de-la-veille-technologique)]
 
-[Dapper N to N tiers [44](#dapper-n-to-n-tiers)](#dapper-n-to-n-tiers)
+[Dapper N to N tiers [44](#dapper-n-to-n-tiers)]
 
 [Connexion au tunnel SSH de Capgemini problématique
-[46](#connexion-au-tunnel-ssh-de-capgemini-problématique)](#connexion-au-tunnel-ssh-de-capgemini-problématique)
+[46](#connexion-au-tunnel-ssh-de-capgemini-problématique)]
 
 [Java -- requêtes préparées SQL
-[47](#java-requêtes-préparées-sql)](#java-requêtes-préparées-sql)
+[47](#java-requêtes-préparées-sql)]
 
-[Conclusion [49](#conclusion)](#conclusion)
+[Conclusion [49](#conclusion)]
 
 # Abstract
 
@@ -297,8 +294,7 @@ UWP permet aux développeurs de créer des applications susceptibles
 d\'être exécutées sur plusieurs types de périphériques. » Source :
 Wikipedia ).
 
-![](./media/media/image4.png){width="5.53125in"
-height="4.802652012248469in"}
+![](./media/media/image4.png)
 
 Figure Diagramme de cas d\'utilisations du projet FoodBook
 
@@ -312,10 +308,8 @@ fictive).
 Ce projet est développé en C# pour le serveur et l'application desktop
 du restaurateur et en UWP pour l'application mobile.
 
-![](./media/media/image5.jpeg){width="2.6354166666666665in"
-height="1.2889730971128608in"} ![Pourquoi XAML? Pourquoi
-maintenant?](./media/media/image6.png){width="3.4270833333333335in"
-height="1.3263331146106736in"}
+![](./media/media/image5.jpeg) ![Pourquoi XAML? Pourquoi
+maintenant?](./media/media/image6.png)
 
 Au terme de ce projet, l'application est composée d'un serveur dont une
 API Restful permettant de gérer des ingrédients, plats, utilisateurs,
@@ -354,8 +348,7 @@ pour le back et PostgreSQL pour les bases de données.
 
 ![Spring Boot + Angular 6 example \| Spring Data JPA + REST + PostgreSQL
 CRUD example -
-YouTube](./media/media/image7.jpeg){width="2.1458333333333335in"
-height="1.2070308398950131in"}
+YouTube](./media/media/image7.jpeg)
 
 Les applications incluses dans le projet EXPADON 2 sont utiles pour
 l'importation et l'exportation de produits alimentaires dans le monde.
@@ -395,13 +388,11 @@ de l'équipe à l'optimisation du dossier d'installation de l'application.
 Voici un bref aperçu du workflow principal pour un certificat (de la
 demande à la signature) :
 
-![](./media/media/image8.png){width="6.3in"
-height="4.865972222222222in"}
+![](./media/media/image8.png)
 
 Voici maintenant un document expliquant le but d'Expadon 2
 
-![](./media/media/image9.png){width="8.249803149606299in"
-height="11.687999781277341in"}
+![](./media/media/image9.png)
 
 # ORIGINES ET OBJECTIF DU PROGRAMME EXPADON 2
 
@@ -441,8 +432,7 @@ pour la première année de fonctionnement.
 
 # SERVICES PRÉVUS DANS EXPADON 2
 
-![](./media/media/image10.png){width="8.267722003499562in"
-height="1.200790682414698in"}Cette plateforme fournira sept
+![](./media/media/image10.png)Cette plateforme fournira sept
 fonctionnalités (ou modules) aux exportateurs et aux services
 utilisateurs (Direction générale de l'alimentation (DGAL),
 FranceAgriMer, Directions régionales de l\'alimentation, de
@@ -500,8 +490,7 @@ et les services.
 
 **\>** Tableaux de bord
 
-![](./media/media/image10.png){width="8.267722003499562in"
-height="1.200790682414698in"}Ces tableaux permettront de suivre et de
+![](./media/media/image10.png)Ces tableaux permettront de suivre et de
 mesurer l'activité à l'exportation et l'utilisation faite de l'outil
 Expadon 2, afin d'améliorer son fonctionnement et le service rendu.
 
@@ -588,8 +577,7 @@ que des solutions reconnues au niveau international soient généralisées
 accords bilatéraux avec les pays tiers, sur la base de solutions
 adaptées (et variables) selon les pays, en fonction de leurs attentes et
 de leurs moyens. Ces discussions ont été entamées dans le domaine
-![](./media/media/image10.png){width="8.267722003499562in"
-height="1.200790682414698in"}phytosanitaire ou avec certaines autorités
+![](./media/media/image10.png)phytosanitaire ou avec certaines autorités
 (Chine, Taïwan, Singapour) mais leur conclusion prendra plusieurs
 années.
 
@@ -768,13 +756,11 @@ l\'intégration d\'un grand nombre de services externes, tels que
 l\'intégration continue, la gestion de versions, badges, chat basés sur
 les projets, etc.
 
-![](./media/media/image12.png){width="6.3in"
-height="2.8520833333333333in"}
+![](./media/media/image12.png)
 
 Légende GitHub Projects - Desktop Client FoodBook
 
-![](./media/media/image13.png){width="6.3in"
-height="5.539583333333334in"}
+![](./media/media/image13.png)
 
 Légende GitHub - Voir les modifications d\'un commit
 
@@ -789,8 +775,7 @@ de recherche de Jülich, la NASA, Alibaba, Oracle, Invincea, O'Reilly
 Media, Leibniz Rechenzentrum, le CERN, European XFEL, la GNOME
 Foundation, Boeing, Autodata, SpaceX6, Altares et Capgemini.
 
-![](./media/media/image14.png){width="6.3in"
-height="2.609027777777778in"}
+![](./media/media/image14.png)
 
 Légende GitLab - Commit de mise en place d\'un nouvel environment.dev.ts
 sur Angular sur le projet Expadon2 de Capgemini Bordeaux
@@ -805,13 +790,11 @@ développeurs et des intervenants non-développeurs (fonctionnels).
 C'est un outil permettant de créer des workflow qui permet d\'organiser
 le travail d\'une équipe Agile ou de suivre des anomalie
 
-![](./media/media/image15.png){width="6.22610564304462in"
-height="1.5149256342957131in"}
+![](./media/media/image15.png)
 
 Légende Jira - Capgemini Bordeaux
 
-![](./media/media/image16.png){width="5.974025590551181in"
-height="2.809873140857393in"}
+![](./media/media/image16.png)
 
 Légende Tableau Kanban où je participe activement au projet EXPADON2
 
@@ -890,8 +873,7 @@ de l\'expert du domaine.
 Voici un exemple de cas d'utilisation qui m'a permis de débuter la
 conception de l'application Foodbook au sein d'AMiO :
 
-![](./media/media/image4.png){width="3.439306649168854in"
-height="2.9843996062992124in"}
+![](./media/media/image4.png)
 
 On y retrouve les principaux acteurs
 
@@ -913,12 +895,11 @@ commentaires ou les règles de gestion de la donnée.
 
 ### Exemple FoodBook d'un dictionnaire de données ainsi qu'un dictionnaire détaillé
 
-![](./media/media/image17.png){width="6.290972222222222in"
-height="2.5444444444444443in"}
+![](./media/media/image17.png)
 
 Légende Dictionnaire de données
 
-## ![](./media/media/image18.png){width="7.8875in" height="3.6118055555555557in"}Modèle conceptuel de données
+## ![](./media/media/image18.png)Modèle conceptuel de données
 
 ### Qu'est-ce qu'un modèle conceptuel de données ?
 
@@ -946,15 +927,13 @@ prendre sa valeur :
 
 Dans cet exemple je vous propose une version post-EPCF :
 
-![](./media/media/image19.png){width="6.3in"
-height="4.569444444444445in"}
+![](./media/media/image19.png)
 
 Légende MCD après correction, plus clair
 
 ### Voici maintenant le MLD 
 
-![](./media/media/image20.png){width="6.3in"
-height="1.5881944444444445in"}
+![](./media/media/image20.png)
 
 Nous remarquons qu'un utilisateur peut bien réserver un menu et un
 service en enregistrant la dernière date de réservation et que le menu
@@ -1004,8 +983,7 @@ ou projet UML.
 Les éléments qui composent un diagramme de paquetages sont relativement
 simples. En effet, ces derniers ne comportent que deux symboles :
 
-![](./media/media/image21.png){width="5.354166666666667in"
-height="3.251924759405074in"}
+![](./media/media/image21.png)
 
 Voici un exemple de diagramme de package qui m'a permis de réaliser
 l'application serveur de FoodBook, le premier projet dont je vous ai
@@ -1013,8 +991,7 @@ parlé.
 
 A MODIFIER POUR ENLEVER LES FLECHES API BLL DAL !!!!
 
-![](./media/media/image22.jpeg){width="6.291666666666667in"
-height="3.84375in"}
+![](./media/media/image22.jpeg)
 
 J'y ai ajouté des flèches pour permettre de comprendre le sens des
 données quand elles sont consommées dans l'API en passant par la BLL
@@ -1049,13 +1026,11 @@ projet Foodbook
 
 ### Exemple dans la partie API/Controllers
 
-![](./media/media/image23.png){width="8.263194444444444in"
-height="6.279861111111111in"}
+![](./media/media/image23.png)
 
 Légende Exemple de diagramme de classe des controllers
 
-![](./media/media/image24.png){width="7.886805555555555in"
-height="4.88125in"}
+![](./media/media/image24.png)
 
 Légende Exemple de diagramme de classe des controllers
 
@@ -1133,19 +1108,17 @@ Légende Exemple de diagramme de classe des controllers
 
 ### 
 
-### ![](./media/media/image25.png){width="8.176000656167979in" height="7.381948818897638in"}
+### ![](./media/media/image25.png)
 
 ### Exemple dans la partie des services (BLL)
 
-![](./media/media/image26.png){width="5.792361111111111in"
-height="7.220833333333333in"}
+![](./media/media/image26.png)
 
 Légende Exemple de diagramme de classe des services de la BLL
 
 ### Exemple dans la partie repository (DAL)
 
-![](./media/media/image27.png){width="6.298611111111111in"
-height="4.552083333333333in"}
+![](./media/media/image27.png)
 
 Légende Exemple de diagramme de classe des Repository de la partie DAL
 
@@ -1165,7 +1138,7 @@ Je n'ai pas fait de diagramme de séquence pour l'application Foodbook
 mais j'ai eu l'occasion d'en réaliser en tant que TP au sein d'AMiO. Le
 but était de détailler la séquence du passage en caisse d'un client :
 
-## ![](./media/media/image28.jpeg){width="7.572222222222222in" height="4.627777777777778in"}Exemple
+## ![](./media/media/image28.jpeg)Exemple
 
 # Développer des composants métier 
 
@@ -1229,12 +1202,10 @@ quand on utilise ADO.NET (Driver SQL) :
     correspondent aux noms des paramètres (cet objet peut éventuellement
     être d\'un type anonyme).
 
-![](./media/media/image29.png){width="3.53125in"
-height="2.0520833333333335in"} Voici des exemples de diagramme de classe
+![](./media/media/image29.png) Voici des exemples de diagramme de classe
 d'objets métiers utilisés dans le cadre du projet fil rouge.
 
-![](./media/media/image30.png){width="7.864583333333333in"
-height="2.052836832895888in"}Il existe aussi des Data Transfert Object
+![](./media/media/image30.png)Il existe aussi des Data Transfert Object
 (DTO pouvant servir de transférer des objets qui ne sont pas semblables
 à ceux de la BDD. Il peut inclure des propriétés supplémentaires, en
 avoir moins, inclure une transformation des données.
@@ -1245,7 +1216,7 @@ d'inscription par plats présents dans une base de données. L'entité
 ses propriétés. C'est pour cela que je peux créer un DTO qui aurait
 cette forme :
 
-![](./media/media/image31.png){width="2.125in" height="1.96875in"}
+![](./media/media/image31.png)
 
 Légende DTO : PlatPopularite pour la popularité d\'un plat
 
@@ -1253,8 +1224,7 @@ Dans ce cas « inscrits » y est ajouté et me servira dans la couche
 d'accès aux données (DAL) comme un « COUNT » dans une requête SQL
 servant à compter le nombre d'inscrits à un plat.
 
-![](./media/media/image32.png){width="7.407638888888889in"
-height="2.490972222222222in"}Voici la requête SQL pour apporter de la
+![](./media/media/image32.png)Voici la requête SQL pour apporter de la
 technique à la théorie :
 
 Nous constatons que « inscrits » est un alias de
@@ -1277,8 +1247,7 @@ définie. Ainsi, la « pagination » est mise en place et fonctionne, me
 permettant de ne pas saturer une base de données ou l'application qui
 devrait récupérer, garder en mémoire et afficher ces données.
 
-![](./media/media/image33.png){width="3.0159995625546805in"
-height="1.329083552055993in"}
+![](./media/media/image33.png)
 
 Légende DTO : PageRequest avec le numéro de la page (Page) et la
 capacité de la page (PageSize) permettant une pagination
@@ -1353,8 +1322,7 @@ UI, Project Reunion, etc.
 Vous l'aurez compris, pour revenir au sujet, ce qui sera intéressant
 pour une application sera donc .NET 6 qui sera multi-plateforme.
 
-![](./media/media/image34.png){width="2.201492782152231in"
-height="1.9492235345581803in"}
+![](./media/media/image34.png)
 
 Légende .NET 6 MAUI
 
@@ -1442,7 +1410,7 @@ faire évoluer l'application sans avoir des dépendances trop fortes qui
 nous pousserait à changer tout le programme pour des ajouts ou
 suppressions d'éléments dans la vue ou dans le modèle par exemple.
 
-![image](./media/media/image35.png){width="6.3in" height="4.49375in"}
+![image](./media/media/image35.png)
 
 Légende Pattern MVVM
 
@@ -1460,8 +1428,7 @@ Application Markup Language. Il s\'agit d\'un dialecte XML. » Source :
 Wikipedia) pour programmer l'interface visuelle de l'application de
 réservation de restaurant.
 
-![](./media/media/image36.png){width="7.305555555555555in"
-height="1.2236111111111112in"}Voici le code de la page de connexion :
+![](./media/media/image36.png)Voici le code de la page de connexion :
 
 Nous pouvons remarquer qu'il y a des contrôles avec des balises XAML.
 Ligne 26 et 27 les TextBox sont liés (bind) sur une propriété du
@@ -1477,15 +1444,13 @@ Par exemple pour cette page de connexion de l'utilisateur j'ai fait des
 grilles dont voici le code qui définit les lignes et les colonnes :
 
 ![Une image contenant texte Description générée
-automatiquement](./media/media/image37.png){width="2.6944444444444446in"
-height="1.6059601924759406in"}
+automatiquement](./media/media/image37.png)
 
 Légende Grilles XAML : page Login
 
 Et voici l'IHM finale :
 
-![](./media/media/image38.png){width="4.951388888888889in"
-height="1.4171817585301838in"}
+![](./media/media/image38.png)
 
 Légende Vue login (maquette)
 
@@ -1557,13 +1522,7 @@ système voire son remplacement.)
 
 Voici les différentes couches du projet serveur de FoodBook.
 
-![](./media/media/image39.png){width="1.9701498250218723in"
-height="2.6695713035870514in"}![](./media/media/image40.png){width="3.313432852143482in"
-height="2.6394236657917762in"}![](./media/media/image41.png){width="1.903655949256343in"
-height="2.8062707786526686in"}![](./media/media/image42.png){width="2.4246281714785654in"
-height="2.806208442694663in"}![](./media/media/image43.png){width="2.1367639982502187in"
-height="2.649377734033246in"}![](./media/media/image44.png){width="2.970138888888889in"
-height="2.634027777777778in"}
+![](./media/media/image39.png)![](./media/media/image40.png)![](./media/media/image41.png)![](./media/media/image42.png)![](./media/media/image43.png)![](./media/media/image44.png)
 
 # Préparer et exécuter les plans de tests d'une application 
 
@@ -1582,8 +1541,7 @@ Cette pyramide montre, de bas en haut, les types de tests utilisés.
 
 -   Test de non-régression
 
-![](./media/media/image45.png){width="5.375in"
-height="2.8958333333333335in"}
+![](./media/media/image45.png)
 
 ## Test unitaire
 
@@ -1623,23 +1581,19 @@ attendue, couvrant à la fois les cas nominaux et les cas spéciaux
 
 ### Exemple par rapport au projet FoodBook
 
-![](./media/media/image46.png){width="5.627083333333333in"
-height="4.029861111111111in"}
+![](./media/media/image46.png)
 
 Légende FakeRestaurantService (BLL \"mock\") avec fausse base de données
 
-![](./media/media/image47.png){width="4.313194444444444in"
-height="1.9402777777777778in"}
+![](./media/media/image47.png)
 
 Légende Méthode \"Modify\" du menu pour test unitaire
 
-![](./media/media/image48.png){width="5.052238626421698in"
-height="4.417784339457568in"}
+![](./media/media/image48.png)
 
 Légende test unitaire pour modifier le menu avec Arrange/Act/Asserts
 
-![](./media/media/image49.png){width="4.410448381452318in"
-height="1.178659230096238in"}
+![](./media/media/image49.png)
 
 Légende Succès des tests
 
@@ -1656,14 +1610,12 @@ assemblé et testé dans l'ensemble.
 
 ### Exemple par rapport au projet FoodBook
 
-![](./media/media/image50.png){width="6.290972222222222in"
-height="5.76875in"}
+![](./media/media/image50.png)
 
 Légende Test d\'intégration d\'ajout d\'utilisateur sur le endpoint
 api/v1/utilisateurs
 
-![](./media/media/image51.png){width="6.298611111111111in"
-height="4.007638888888889in"}
+![](./media/media/image51.png)
 
 Légende Test d\'intégration requête par ID d\'un utilisateur
 
@@ -1742,8 +1694,7 @@ Comme le serveur n'était pas à jour par rapport à mon serveur local,
 j'ai dû modifier quelques parties du script que j'avais extrait et cela
 a réussi avec succès l'importation.
 
-![](./media/media/image52.png){width="2.33994094488189in"
-height="2.858209755030621in"}
+![](./media/media/image52.png)
 
 Légende Post-importation des tables nécéssaires au bon déroulement du
 serveur et de l\'API Rest
@@ -1754,8 +1705,7 @@ Une fois cela fait, je n'ai plus qu'à redéfinir les paramètres de
 l'application. Les paramètres servant à la connexion à la base de
 données et à la connexion de Token JWT.
 
-![](./media/media/image53.png){width="6.298611111111111in"
-height="2.701388888888889in"}
+![](./media/media/image53.png)
 
 Légende AppSettings.Json - Rubrique API - Commentaire sur les parties du
 développement en local et ligne du dessous pour la production en ligne
@@ -1766,16 +1716,14 @@ J'ai publié le dossier API de mon application en ligne. Ce dossier ainsi
 que toutes les références seront mis en ligne, c'est-à-dire toutes les
 couches qui en découlent.
 
-![](./media/media/image54.png){width="3.7835826771653545in"
-height="2.1346784776902887in"}
+![](./media/media/image54.png)
 
 Légende Publication en ligne
 
 Enfin je paramètre les informations du ftp et j'obtiens cette fenêtre
 qui m'indique que l'API est publiée.
 
-![](./media/media/image55.png){width="6.298611111111111in"
-height="4.111805555555556in"}
+![](./media/media/image55.png)
 
 Légende Publication réussie
 
@@ -1783,8 +1731,7 @@ Je n'ai plus qu'à tester l'url <http://user05.2isa.org/api/doc> et
 <http://user05.2isa.org/doc> pour voir si le serveur est bien en ligne
 et que l'API y est intégrée et en cours d'exécution.
 
-![](./media/media/image56.png){width="4.970149825021872in"
-height="2.5091808836395453in"}
+![](./media/media/image56.png)
 
 Légende DOC et API/DOC sur le serveur 2isa.org
 
@@ -1797,8 +1744,7 @@ J'ai mis en place un Token JWT dans ce projet me permettant
 une authentification et une autorisation à l'API. Dans mon cas, deux
 rôles existent : Admin ou User. 
 
-![](./media/media/image57.png){width="6.3in"
-height="2.046527777777778in"}
+![](./media/media/image57.png)
 
 Un Token JWT possède un HEADER, un PAYLOAD et une VERIFY SIGNATURE. Via
 la méthode GenerateJwtToken, je génère un token unique pour un
@@ -1808,20 +1754,16 @@ On y retrouve les trois différentes parties dont le Payload contenant le
 login ainsi que l'idUtilisateur qui sera pratique pour la suite, si je
 veux par exemple, créer une réservation. 
 
-![](./media/media/image58.png){width="6.3in"
-height="4.3277777777777775in"}
+![](./media/media/image58.png)
 
 # L'application FoodBook en image
 
 Voici l'application desktop en fonctionnement
 
-![](./media/media/image59.png){width="4.285714129483814in"
-height="3.2482983377077863in"}Légende Application desktop
+![](./media/media/image59.png)Légende Application desktop
 
-![](./media/media/image60.png){width="6.3in"
-height="4.7131944444444445in"}\
-![](./media/media/image61.png){width="4.881944444444445in"
-height="3.703472222222222in"}
+![](./media/media/image60.png)\
+![](./media/media/image61.png)
 
 # L'application mobile
 
@@ -1829,17 +1771,13 @@ height="3.703472222222222in"}
 height="3.2246894138232722in"}Voici l'application mobile en
 fonctionnement
 
-![](./media/media/image63.png){width="2.9586439195100613in"
-height="4.746753062117235in"}![](./media/media/image64.png){width="2.657638888888889in"
-height="4.259722222222222in"}
+![](./media/media/image63.png)![](./media/media/image64.png)
 
 # Documenter FoodBook
 
-## ![](./media/media/image65.png){width="2.1881944444444446in" height="2.8048611111111112in"}![](./media/media/image66.png){width="4.934722222222222in" height="1.792361111111111in"}![](./media/media/image67.png){width="5.883333333333334in" height="2.175in"}Documentation de l'API
+## ![](./media/media/image65.png)![](./media/media/image66.png)![](./media/media/image67.png)Documentation de l'API
 
-![](./media/media/image68.png){width="3.675in"
-height="2.675in"}![](./media/media/image69.png){width="2.0652777777777778in"
-height="3.779166666666667in"}
+![](./media/media/image68.png)![](./media/media/image69.png)
 
 Via un intergiciel (middleware) nommé Swagger ainsi que la génération
 des fichiers XML de chaque dossier du serveur, j'ai pu avoir la
@@ -1849,17 +1787,14 @@ pour le serveur, son fonctionnement et ses types de retour.
 
 ## Documentation technique
 
-![](./media/media/image70.png){width="2.876388888888889in"
-height="3.9347222222222222in"}Via DocFX avec, toujours, la génération
+![](./media/media/image70.png)Via DocFX avec, toujours, la génération
 des fichiers XML des différentes couches du serveur, cet intergiciel m'a
 permis de générer la documentation technique du projet. Très utile pour
 aider les pairs à s'y retrouver dans le projet.
 
-![](./media/media/image71.png){width="2.707638888888889in"
-height="3.584722222222222in"}
+![](./media/media/image71.png)
 
-![](./media/media/image72.png){width="6.3in"
-height="3.828472222222222in"}
+![](./media/media/image72.png)
 
 On y voit les paramètres ainsi que les types de retour. La description
 est en réalité le commentaire lié dans le code de la classe.
@@ -1882,8 +1817,7 @@ J'ai cherché par moi-même avec une indication de Fabien et la solution
 site web en anglais expliquant la méthode.
 
 ![Une image contenant texte Description générée
-automatiquement](./media/media/image73.png){width="6.3in"
-height="6.336111111111111in"}
+automatiquement](./media/media/image73.png)
 
 Légende Mapping avec List sur Dapper (micro-ORM) - Solution trouvée sur
 Reddit
@@ -1915,16 +1849,14 @@ message d'erreur de l'invite de commande Windows :
 
 Le titre était explicite et m'a permis de trouver une piste.
 
-![](./media/media/image74.png){width="6.3in"
-height="0.8763888888888889in"}
+![](./media/media/image74.png)
 
 Légende Titre de la recherche trouvée
 
 Sur ce forum j'ai trouvé une solution en testant ce qu'un utilisateur
 avait écrit :
 
-![](./media/media/image75.png){width="6.3in"
-height="4.3277777777777775in"}
+![](./media/media/image75.png)
 
 Légende Solution d\'un utilisateur
 
@@ -1985,8 +1917,7 @@ trouvé à ce propos.
     code à comprendre rapidement les entrées et les sorties de la
     requête.
 
-> ![](./media/media/image76.png){width="7.645833333333333in"
-> height="0.34375in"}Voici un exemple de requêtes préparées dites
+> ![](./media/media/image76.png)Voici un exemple de requêtes préparées dites
 > « Optimistes » :
 >
 > Nous pouvons constater dans cette requête que l'identifiant technique
@@ -1995,8 +1926,7 @@ trouvé à ce propos.
 > C'est à la ligne 30 que l'on va fixer la valeur de « :id » seulement.
 > Aucunes injections n'est possible via cette méthodologie.
 >
-> ![](./media/media/image77.png){width="6.977083333333334in"
-> height="1.1236111111111111in"}C'est aussi possible en C#, voici un
+> ![](./media/media/image77.png)C'est aussi possible en C#, voici un
 > exemple avec des « \@idUtilisateur » et, ligne 30, l'exécution avec la
 > variable :
 
@@ -2078,8 +2008,7 @@ ou un attribut, être défini comme protégé, tandis que le symbole \~
 indique la visibilité du paquetage.
 
 ![Notation de
-Class](./media/media/image78.gif){width="2.196527777777778in"
-height="2.1444444444444444in"}
+Class](./media/media/image78.gif)
 
 ### Interfaces
 
@@ -2089,8 +2018,7 @@ les classes sont garantis pour supporter un comportement requis. Qui
 permet au système de traiter des éléments non-liés de la même façon --
 c'est-à-dire par l'interface commune.
 
-![Interface](./media/media/image79.gif){width="1.7861275153105862in"
-height="2.764258530183727in"}
+![Interface](./media/media/image79.gif)
 
 Les interfaces peuvent être dessinés dans un style similaire à une
 classe, avec des opérations spécifiées. Comme indiqué ci-dessous. Ils
@@ -2099,8 +2027,7 @@ explicite et détaillée. Lorsque dessiné comme un cercle, la réalisation
 des liens vers le cercle, comme 'forme de notation' sont établis sans
 flèches cibles.
 
-![Interface 2](./media/media/image80.gif){width="2.1156069553805774in"
-height="1.1345964566929134in"}
+![Interface 2](./media/media/image80.gif)
 
 ### Tableaux
 
@@ -2115,8 +2042,7 @@ stéréotypée comme «PK». Certains tableaux auront une ou plusieurs clés
 une clé primaire dans une table associée. L'opération de clé étrangère
 est stéréotypée comme «FK».
 
-![Tableaux](./media/media/image81.gif){width="1.942445319335083in"
-height="1.4335258092738408in"}
+![Tableaux](./media/media/image81.gif)
 
 ### Associations
 
@@ -2131,8 +2057,7 @@ Association dénommée extrémités deviennent variables d'instance dans la
 classe cible. Donc, pour l'exemple ci-dessous, \"playsFor \" va devenir
 une variable d'instance dans le \"Player\" classe.
 
-![Associations](./media/media/image82.gif){width="2.9595384951881014in"
-height="1.0194652230971128in"}
+![Associations](./media/media/image82.gif)
 
 ### Généralisations
 
@@ -2145,13 +2070,11 @@ Cercle aura des attributs 'x_position','y_position' et le rayon et un
 affichage de méthode(). Notez que la classe \"Forme\" est abstrait,
 représenté par le nom est en italique.
 
-![Généralisations](./media/media/image83.gif){width="2.606936789151356in"
-height="1.0420713035870517in"}
+![Généralisations](./media/media/image83.gif)
 
 Le diagramme suivant affiche une vue équivalent de la même information.
 
-![Information](./media/media/image84.gif){width="1.416185476815398in"
-height="1.621159230096238in"}
+![Information](./media/media/image84.gif)
 
 ### Agrégations
 
@@ -2177,8 +2100,7 @@ de contact. Si vous supprimez un carnet d'adresses, tous les contacts et
 groupes de contact seront également supprimées. Si vous supprimez un
 groupe de contact, aucun contact ne sera supprimé.
 
-![Aggregations](./media/media/image85.gif){width="2.581615266841645in"
-height="2.161849300087489in"}
+![Aggregations](./media/media/image85.gif)
 
 ### Classes d'association
 
@@ -2193,8 +2115,7 @@ même temps et ont différents titres d'emploi et des niveaux de sécurité
 sur chaque.
 
 ![Classes
-d'association](./media/media/image86.gif){width="3.1502898075240595in"
-height="1.786913823272091in"}
+d'association](./media/media/image86.gif)
 
 ### Dépendances
 
@@ -2232,8 +2153,7 @@ assure la vision holistique de votre système. Il se souvient et reflète
 tous les détails qui contraignent et définissent. Une réalisation est
 représentée par une ligne en pointillés avec une pointe solide.
 
-![Realizations](./media/media/image79.gif){width="1.721823053368329in"
-height="2.6647397200349956in"}
+![Realizations](./media/media/image79.gif)
 
 ### Emboîtements
 
@@ -2242,8 +2162,7 @@ imbriqué dans l'élément de cible. Le diagramme suivant montre la
 définition d'une classe interne, bien que dans EA il est plus habituel
 de leur montrer par leur position dans la hiérarchie des vues du projet.
 
-![Emboîtements](./media/media/image87.gif){width="3.1213877952755906in"
-height="1.1000109361329833in"}
+![Emboîtements](./media/media/image87.gif)
 
 # Annexe 2 -- Diagramme de séquence
 
@@ -2254,8 +2173,7 @@ séquence. Ligne de Vie aura généralement un rectangle contenant son nom
 d'objet. Si son nom est \"soi \", qui indique que la ligne de vie
 représente le classificateur, qui possède le diagramme de séquence.
 
-![Ligne de Vie](./media/media/image88.gif){width="2.3410411198600176in"
-height="1.1810465879265093in"}
+![Ligne de Vie](./media/media/image88.gif)
 
 Parfois, un diagramme de séquence aura une Ligne de Vie avec un symbole
 de l'élément de l'acteur à sa tête. Ce sera généralement le cas si le
@@ -2263,8 +2181,7 @@ diagramme de séquence appartient à un cas d'utilisation. Frontière,
 éléments de commande et des entités à partir de diagrammes de robustesse
 peut aussi propres Lignes de Vie.
 
-![Ligne de Vie2](./media/media/image89.gif){width="2.618497375328084in"
-height="1.0679636920384952in"}
+![Ligne de Vie2](./media/media/image89.gif)
 
 ### Messages
 
@@ -2276,8 +2193,7 @@ implicite. Le deuxième message est asynchrone (dénoté par une pointe de
 flèche de la ligne), et le troisième est le message de retour asynchrone
 (dénoté par la ligne pointillée).
 
-![Messages](./media/media/image90.gif){width="2.2774573490813648in"
-height="1.8283880139982502in"}
+![Messages](./media/media/image90.gif)
 
 ### Exécution Occurrence
 
@@ -2296,8 +2212,7 @@ une méthode appelant une autre méthode appartenant au même objet. Il est
 montré que la création d'un centre emboîté de contrôle dans l'occurrence
 d'exécution de la ligne de Vie.
 
-![Soi Message](./media/media/image91.gif){width="1.416185476815398in"
-height="1.9227077865266842in"}
+![Soi Message](./media/media/image91.gif)
 
 ### Messages Perdus et Trouvés
 
@@ -2308,8 +2223,7 @@ expéditeur inconnu, ou d'un expéditeur non montré sur le diagramme
 actuel. Ils sont dénotés allant à ou venant d'un élément de critère.
 
 ![Messages Perdus et
-Trouvés](./media/media/image92.gif){width="1.843931539807524in"
-height="1.8750393700787402in"}
+Trouvés](./media/media/image92.gif)
 
 ### Ligne de Vie Début et de Fin
 
@@ -2322,8 +2236,7 @@ a provoqué la création. Le diagramme suivant montre un objet étant créé
 et détruit.
 
 ![Ligne de Vie Début et de
-Fin](./media/media/image93.gif){width="2.5838156167979003in"
-height="1.6511931321084865in"}
+Fin](./media/media/image93.gif)
 
 ### Durée et Contraintes de temps
 
@@ -2335,8 +2248,7 @@ qu'il prend pour exécuter des actions. En fixant une contrainte de durée
 pour un message, le message sera affiché comme une ligne oblique.
 
 ![Durée et Contraintes de
-temps](./media/media/image94.gif){width="2.2049311023622047in"
-height="2.1271675415573053in"}
+temps](./media/media/image94.gif)
 
 ### Fragments Combinés
 
@@ -2388,8 +2300,7 @@ des circonstances spécifiques désignés. Les fragments disponibles sont :
 Le diagramme suivant montre un fragment de boucle.
 
 ![Fragment de
-boucle](./media/media/image95.gif){width="2.589595363079615in"
-height="2.397937445319335in"}
+boucle](./media/media/image95.gif)
 
 Il y a aussi une occurrence d'interaction, qui est semblable à un
 fragment combiné. Une occurrence d'interaction est une référence à un
@@ -2409,9 +2320,7 @@ diagramme de niveau supérieur est le moment où le message flèche touche
 le fragment de référence. Il n'y a aucun besoin de rendre aussi une
 forme de boîte.
 
-![Gate](./media/media/image96.gif){width="2.907515310586177in"
-height="1.948898731408574in"}![Gate2](./media/media/image97.gif){width="3.1924081364829395in"
-height="1.9551224846894137in"}
+![Gate](./media/media/image96.gif)![Gate2](./media/media/image97.gif)
 
 ### Partie de Décomposition
 
@@ -2419,8 +2328,7 @@ Un objet peut avoir plus d'une ligne de vie venant de lui. Ceci permet
 pour les messages inter et intra-objet à afficher sur le même diagramme.
 
 ![Partie de
-Décomposition](./media/media/image98.gif){width="2.5028904199475064in"
-height="2.614090113735783in"}
+Décomposition](./media/media/image98.gif)
 
 ### Invariant/Continuations d'State
 
@@ -2429,8 +2337,7 @@ qui doit être vrai au moment de l'exécution. Elle est indiquée par un
 rectangle avec des fins semi-circulaires.
 
 ![Invariant/Continuations
-d'State](./media/media/image99.gif){width="0.8472681539807524in"
-height="1.3757228783902011in"}
+d'State](./media/media/image99.gif)
 
 Une suite a la même notation comme un invariant d'state, mais il est
 utilisé dans des fragments combinés et peut à travers plus qu'une ligne
